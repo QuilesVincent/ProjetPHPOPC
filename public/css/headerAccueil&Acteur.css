@@ -1,0 +1,16 @@
+.containHeader{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logoHeader{
+    margin-left: 1%;
+}
+.infoUser{
+    margin-right: 2%;
+}
+.formDecoParam{
+    position: relative;
+    left: 85%;
+    width: 15%;
+}

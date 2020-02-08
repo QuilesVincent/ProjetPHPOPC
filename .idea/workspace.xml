@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43876b3f-71a2-46d0-b632-3e1d8a459400" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1X1lX04JxIhw1DNeaea0oVb5RrC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHPTrainingPOO" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xampp\code\trainingGrafikart\routeur" />
+      <recent name="C:\xampp\htdocs\xampp\code\trainingGrafikart" />
+      <recent name="C:\xampp\htdocs\xampp\code\trainingGrafikart\class\Manager" />
+      <recent name="C:\xampp\htdocs\xampp\code\trainingGrafikart\src\model\Exceptions" />
+      <recent name="C:\xampp\htdocs\xampp\code\trainingGrafikart\src\model\GuestBook" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43876b3f-71a2-46d0-b632-3e1d8a459400" name="Default Changelist" comment="" />
+      <created>1580221516706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580221516706</updated>
+      <workItem from="1580221518517" duration="4396000" />
+      <workItem from="1580304945724" duration="4605000" />
+      <workItem from="1580369213539" duration="5071000" />
+      <workItem from="1580390803265" duration="4839000" />
+      <workItem from="1580458322967" duration="3023000" />
+      <workItem from="1580541199351" duration="2863000" />
+      <workItem from="1580633378085" duration="3271000" />
+      <workItem from="1580708714638" duration="3927000" />
+      <workItem from="1580887164755" duration="7095000" />
+      <workItem from="1580906145891" duration="2270000" />
+      <workItem from="1580993486483" duration="6963000" />
+      <workItem from="1581055660894" duration="4422000" />
+      <workItem from="1581151575480" duration="2681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="122" key="#CLI_Interpreters" timestamp="1580395451849">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="380" y="122" key="#CLI_Interpreters/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580395451849" />
+    <state x="392" y="109" key="#Inspections" timestamp="1580371435351">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="109" key="#Inspections/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580371435351" />
+    <state x="254" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581153704452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="254" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1581153704452" />
+    <state x="509" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580369810145">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="509" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580369810145" />
+    <state x="605" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1580713569915">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="605" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1580713569915" />
+    <state x="576" y="335" width="447" height="326" key="ComposerInitDialogKey" timestamp="1580395464546">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="576" y="335" width="447" height="326" key="ComposerInitDialogKey/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580395464546" />
+    <state x="580" y="206" key="FileChooserDialogImpl" timestamp="1580888812098">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="206" key="FileChooserDialogImpl/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580395412610" />
+    <state x="580" y="206" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1580888812098" />
+    <state x="634" y="350" width="356" height="200" key="Github.CreateGistDialog" timestamp="1581153861620">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="634" y="350" width="356" height="200" key="Github.CreateGistDialog/0.0.1600.900@0.0.1600.900" timestamp="1581153861620" />
+    <state x="576" y="265" key="NewPhpClassDialog" timestamp="1580907109814">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="576" y="265" key="NewPhpClassDialog/0.0.1600.900@0.0.1600.900" timestamp="1580907109814" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581151577169">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580993503871" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1581151577169" />
+    <state x="523" y="93" key="refactoring.ChangeSignatureDialog" timestamp="1581056148228">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="523" y="93" key="refactoring.ChangeSignatureDialog/0.0.1600.900/1600.0.1920.1080@0.0.1600.900" timestamp="1580993625777" />
+    <state x="523" y="93" key="refactoring.ChangeSignatureDialog/0.0.1600.900@0.0.1600.900" timestamp="1581056148228" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1580459871555">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1580459871555" />
+  </component>
+</project>

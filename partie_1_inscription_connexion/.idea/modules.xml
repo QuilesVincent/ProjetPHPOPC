@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../controller/.idea/controller.iml" filepath="$PROJECT_DIR$/../controller/.idea/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../public/css/.idea/css.iml" filepath="$PROJECT_DIR$/../public/css/.idea/css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../model/.idea/model.iml" filepath="$PROJECT_DIR$/../model/.idea/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multiPage/.idea/multiPage.iml" filepath="$PROJECT_DIR$/../multiPage/.idea/multiPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/partie_1_inscription_connexion.iml" filepath="$PROJECT_DIR$/.idea/partie_1_inscription_connexion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../partie_2_accueil/.idea/partie_2_accueil.iml" filepath="$PROJECT_DIR$/../partie_2_accueil/.idea/partie_2_accueil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../partie_3_actor/.idea/partie_3_actor.iml" filepath="$PROJECT_DIR$/../partie_3_actor/.idea/partie_3_actor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ttrainingGrafikart/.idea/ttrainingGrafikart.iml" filepath="$PROJECT_DIR$/../../ttrainingGrafikart/.idea/ttrainingGrafikart.iml" />
+    </modules>
+  </component>
+</project>

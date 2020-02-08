@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PHPTrainingPOO/.idea/PHPTrainingPOO.iml" filepath="$PROJECT_DIR$/../PHPTrainingPOO/.idea/PHPTrainingPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetPHPOPC.iml" filepath="$PROJECT_DIR$/.idea/ProjetPHPOPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trainingGrafikart/.idea/ttrainingGrafikart.iml" filepath="$PROJECT_DIR$/../trainingGrafikart/.idea/ttrainingGrafikart.iml" />
+    </modules>
+  </component>
+</project>
